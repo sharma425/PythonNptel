@@ -1,0 +1,1213 @@
+
+and I'm working as an assistant
+00:10
+professor in the department of computer
+00:11
+science at Utrecht and Open University
+00:13
+Hall Duany and I am your instructor for
+00:16
+this money today we will discuss history
+00:18
+of Internet and after studying this
+00:21
+module you should be able to understand
+00:24
+the history and evolution of Internet
+00:26
+know the advantages of packet switching
+00:29
+networks explain the reason why ARPANET
+00:32
+was designed defined the role of
+00:34
+Internet browsers explain Internet
+00:37
+addresses know the functions of DNS
+00:40
+understand Internet infrastructure and
+00:44
+understand World Wide Web the Internet
+00:48
+has grown so rapidly and become
+00:50
+indispensable so quickly that it can be
+00:53
+hard to remember that it is still a
+00:55
+fairly new medium most people use the
+00:58
+Internet daily for personal and
+01:00
+increasingly for business purposes
+01:01
+childrens are growing up with online
+01:04
+activities as a second nature even in
+01:07
+rural and lower-income communities
+01:09
+opportunities for Internet users are
+01:11
+spreading individuals go to the internet
+01:14
+for information employment education and
+01:17
+ailment relationships and support it has
+01:21
+facilitated our life in more than one
+01:24
+way have you ever wondered from where
+01:26
+the internet came let us discuss the
+01:29
+brief history of Internet and learn how
+01:31
+this internet was invented and how it
+01:34
+evolved to an extent that now we cannot
+01:37
+think of our lives without it so we will
+01:39
+start our discussion with the historical
+01:41
+perspective of the internet I don't know
+01:45
+what the cold war between USA and Russia
+01:47
+gave to the world but definitely the
+01:49
+Internet is one of those very useful
+01:52
+inventions whose foundation was laid
+01:54
+during cold war days Russia launched the
+01:57
+world's first satellite Sputnik into the
+02:00
+space on 4th of October 1957 this was
+02:03
+clearly the victory of Russia over the
+02:05
+cyberspace and as a counter step ARPA or
+02:09
+Advanced Research Projects Agency the
+02:13
+arm of Department of Defense United
+02:15
+States declared the launch of ARPANET or
+02:18
+Advanced Research Project agency Network
+02:21
+in early 1960s this was an experimental
+02:25
+network and was designed to keep the
+02:28
+computers connected to this network to
+02:31
+communicate with each other even if any
+02:33
+of the node due to the bomb attack fails
+02:36
+to respond the first message was sent
+02:39
+over the ARPANET a packet switching
+02:41
+network by Leonid clean rock laboratory
+02:45
+at university of california los angeles
+02:48
+you will be surprised to know that the
+02:50
+first message that was sent over
+02:52
+internet was letter L Oh actually they
+02:56
+intended to send word login but only the
+03:00
+first two letter reached its destination
+03:02
+at second network node at a Stanford
+03:06
+Research Institute and before the last
+03:08
+three letters could deduce the
+03:10
+destination the network was down due to
+03:13
+a glitch sure the error was fixed and
+03:16
+the message was recent the major tasks
+03:20
+that our Pinet have to play is to
+03:22
+develop rules for communication that is
+03:25
+protocols for communicating over ARPANET
+03:28
+the ARPANET in particular led to the
+03:31
+development of protocols for internet
+03:34
+working in which multiple separate
+03:36
+networks could be joined into a network
+03:39
+of networks it resulted in the
+03:42
+development of tcp/ip protocol sue which
+03:45
+specifies the rules for joining and
+03:48
+communicating over ARPANET soon after in
+03:52
+1986 NSF or National Science Foundation
+03:56
+backbone was created and five US
+03:59
+universities computing centers were
+04:01
+connected to form NSF net the
+04:04
+participating universities were
+04:06
+Princeton University Cornell University
+04:10
+University of Illinois Carnegie Mellon
+04:14
+University and General Atomics San Diego
+04:17
+supercomputer Center an affectionate the
+04:20
+successor of ARPANET became popular by
+04:24
+1990s
+04:26
+ARPANET was decommissioned in 1965
+04:29
+Donnell Davis and his colleagues at the
+04:31
+UK National Physical Laboratory
+04:34
+independently discovered the idea of
+04:36
+packet switching and later created a
+04:39
+small-scale packet switching version of
+04:41
+ARPANET Michigan educational research
+04:45
+information dried found merit networks
+04:48
+in 1966 which was funded and supported
+04:51
+by state of Michigan and the National
+04:53
+Science Foundation France also developed
+04:56
+a packet switching network known as
+04:58
+Cyclades in 1973 now there were many
+05:02
+parallel systems working on different
+05:04
+protocols and the scientists were
+05:06
+looking for some common standards so
+05:09
+that networks could be interconnected in
+05:12
+1978 tcp/ip protocols were ready and by
+05:16
+1983 the tcp/ip protocol were adopted by
+05:20
+ARPANET in 1981 the integration of two
+05:24
+large network took place NFS developed
+05:27
+computer science network which is known
+05:29
+as CS net and was connected to ARPANET
+05:32
+using tcp/ip protocols you now the
+05:35
+network was not only popular among the
+05:37
+research community but the private
+05:39
+players also took interest in the
+05:40
+network NFS supported speed of 56
+05:43
+kilobytes per second it was upgraded to
+05:47
+1.5 megabits per second in 1988 to
+05:51
+facilitate the growth of network by
+05:54
+involving merit network IBM MCA and
+05:58
+state of Michigan after the corporate
+06:01
+realized the strength and merit of this
+06:03
+network they participated in the
+06:05
+development of the network to write its
+06:07
+benefits by late 1980s many Internet
+06:11
+service providers emerged to provide the
+06:14
+backbone for carrying the network
+06:15
+traffic by 1991 NFS net was expanded and
+06:20
+was upgraded to 45 megabits per second
+06:23
+many commercial ISPs provided backbone
+06:26
+service and was popular among the
+06:28
+corporates on 30th April 1995 the NSFNET
+06:33
+backbone service has been successfully
+06:36
+ported to a new architecture and
+06:38
+that NSFNET backbone was decommissioned
+06:41
+now the internet could carry commercial
+06:44
+traffic now more and more universities
+06:45
+and research centers throughout the
+06:48
+world were connected to it this network
+06:50
+was very popular among the research
+06:52
+community and in 1991 national research
+06:56
+and education network known as NR en was
+07:00
+founded and the World Wide Web was
+07:02
+released initially the role of Internet
+07:05
+was only limited to file transfer the
+07:08
+credit of Internet what we see today
+07:10
+goes to Tim berners-lee who introduced
+07:13
+world wide web with the advent of www
+07:17
+there was a transformation on how the
+07:19
+network was used
+07:20
+now this web of information can be used
+07:22
+to retrieve any information available
+07:25
+over the Internet software called
+07:27
+browser was developed to browse the
+07:29
+Internet it was developed by researchers
+07:31
+at the University of Chile noise in 1992
+07:35
+and named as Mo's act
+07:36
+there's browsers enabled to browse the
+07:38
+internet the way we browse it today with
+07:42
+so many devices connected to the
+07:43
+Internet we require some mechanism to
+07:46
+uniquely identify every device that is
+07:48
+connected to the Internet for sending a
+07:51
+data packet from source computer to
+07:53
+destination computer on a network it is
+07:55
+required that both nodes have their own
+07:58
+unique address we also require some
+08:00
+centralized system which take care of
+08:03
+this mechanism so that the signs which
+08:05
+are used to identify each device are not
+08:08
+duplicate else the whole purpose is
+08:10
+defeated to take care of this we have a
+08:13
+centralized Authority known as internet
+08:16
+assigned numbers Authority which is
+08:18
+responsible for assigning a unique
+08:20
+number known as IP or Internet Protocol
+08:24
+address an IP address is a 32-bit binary
+08:27
+number which is divided into four
+08:30
+octaves and each octet consists of eight
+08:33
+binary digits and these updates are
+08:35
+separated by a dot each eight bits in
+08:38
+the octet can have two binary values
+08:41
+that is zero and run therefore each
+08:45
+octet can have minimum value of zero
+08:47
+that is eight zeros to maximum value 250
+08:51
+that is all once and in total we have to
+08:55
+raise to power 8 that is 256 different
+08:58
+combinations again to remember this
+09:01
+32-bit addresses in binary is bit
+09:04
+difficult so for better understanding of
+09:07
+a human being it is expressed in a
+09:09
+decimal format but this decimal format
+09:12
+is for human understanding only and the
+09:14
+computer understand it in binary format
+09:16
+in decimal the above IP addresses
+09:19
+expressed as 120 3.45 dot 78 dot 125
+09:25
+these octets are used to create and
+09:28
+separate different classes an IP address
+09:31
+consists of two parts that is network
+09:34
+and host network part identifies a
+09:37
+particular network among different
+09:39
+networks and the host part identifies a
+09:42
+device of a particular network this
+09:45
+address uniquely identifies a devices
+09:47
+connected to the Internet
+09:49
+similar to the postal system where we
+09:51
+identify any house by first identifying
+09:54
+the country then state followed by
+09:57
+district post office cluster or block
+10:01
+and finally the house number the system
+10:03
+of IP address classes was developed for
+10:06
+the purpose of internet IP addresses
+10:09
+assignment the class is created where
+10:12
+based on the network size for example
+10:15
+for a small number of networks with the
+10:17
+very large number of hosts the Class A
+10:20
+was created the Class C was created for
+10:23
+the numerous networks with the small
+10:26
+number of hosts these IP addresses are
+10:29
+classified into five categories based on
+10:31
+the availability of IP range these
+10:33
+categories are Class A B C D and E each
+10:39
+class has a range of valid IP addresses
+10:41
+the value of the first octant determined
+10:44
+the class IP addresses from the first
+10:48
+three classes that is a B and C can be
+10:51
+used for host addresses the other two
+10:54
+classes are used for other purposes that
+10:56
+is Class D for multicast and Class E for
+11:00
+experimental purposes in Class A IP
+11:03
+addresses the
+11:05
+work ideas a bit long and the host idea
+11:08
+is 24 bits long
+11:09
+it has 128 network IDs and approximately
+11:14
+16 million hosts IDs IP addresses
+11:17
+belonging to Class A ranges from 0 dot 0
+11:21
+dot 0 dot 0 to 127 dot 0 dot 0 dot 0 in
+11:28
+Class B IP addresses the network ID is
+11:32
+16 bit long and the host ID is 16 bit
+11:36
+raw it has 16384 network addresses and
+11:42
+65535 host addresses IP addresses
+11:46
+belonging to Class B ranges from 128 dot
+11:49
+0 dot 0 dot 0 to 191 dot 255 dot 0 dot 0
+11:55
+in Class C IP addresses the network ID
+11:59
+is 24 bits long and the host ID is 8
+12:02
+bits now it has approximate 2 million
+12:06
+Network addresses and 254 host addresses
+12:09
+IP addresses belonging to Class C ranges
+12:13
+from 192 dot 0 dot 0 dot 0 to 223 dot
+12:17
+255 dot 255 dot 0 IP addresses plumbing
+12:22
+to Class D ranges from 220 4.0 dot dot 0
+12:26
+to 239 dot 255 dot 255 dot 255 and IP
+12:33
+addresses of Class E ranges from 240 dot
+12:37
+0 dot 0 dot 0 to 255 dot 255 dot 255 dot
+12:42
+255
+12:43
+I am a decentralized the task of
+12:47
+assigning the IP addresses by allocating
+12:49
+the large chunk of IP addresses to five
+12:52
+regional internet registries which are
+12:54
+further responsible to allocate the IP
+12:57
+addresses in their zone
+12:59
+these are IRS our APN IC f Ric and I see
+13:04
+a rin LHC and IC and our IP and CC APN
+13:11
+IC is responsible for serving the
+13:14
+asia-pacific region F Ric n IC
+13:19
+is responsible for serving the African
+13:21
+reason a Rin responsible for serving
+13:24
+North America and several Caribbean and
+13:26
+North Atlantic island la CNIC is
+13:30
+responsible for serving Latin America
+13:32
+Caribbean and our IPE and Cici is
+13:36
+responsible for serving Europe Middle
+13:38
+East and parts of Central Asia for
+13:41
+listening and coordination between these
+13:43
+five our IRS there is a organization
+13:46
+called number resource organization or
+13:50
+NRO whenever we browse any website in
+13:53
+the internet we type name something like
+13:56
+www dot you or you got a seedot in we
+13:59
+really live with IP addresses like one
+14:02
+zero 4.28 dot 2.90 but the fact is even
+14:07
+if we type the IP address in the URL it
+14:10
+will land us to the same webpage the
+14:12
+fact is we are very comfortable using
+14:15
+and remembering the names instead of
+14:17
+numbers moreover these IP addresses
+14:20
+changes over time and some of these
+14:22
+sites have multiple IP addresses also
+14:25
+the transfer of data over Internet is
+14:27
+only possible using IP addresses because
+14:30
+the routing of the packet of data sent
+14:32
+over Internet is done using IP address
+14:35
+there is a server called domain name
+14:38
+system or DNS which ex care of this
+14:41
+translation job to simplify and to save
+14:45
+us from remembering these changing IP
+14:47
+address numbers whenever you type in
+14:50
+address like w-w-w dot u u dot s e dot M
+14:54
+there is a process called DNS name
+14:57
+resolution takes place in the background
+15:00
+the computer gives the track of recently
+15:03
+visited sites and locally maintains our
+15:05
+database in DNS cache in case the IP
+15:11
+address of the site you have requested
+15:13
+for is not found in the DNS cache of
+15:16
+your local computer then the next
+15:19
+probable place to find it as DNS server
+15:22
+of your internet service provider or ISP
+15:26
+these DNS servers of isp also maintains
+15:29
+the cache of the recently visited pages
+15:32
+just in case the information is not
+15:34
+found here also the DNS server of the
+15:37
+ISP forward the query to the root
+15:40
+nameservers the root nameservers
+15:43
+published the root zone file to other
+15:45
+DNS servers and clients on the Internet
+15:48
+the root zone file describes where the
+15:51
+authority of servers of the DNS
+15:53
+top-level domain or TLD are located
+15:57
+there are currently 30 group name
+16:00
+servers which are listed here
+16:02
+these root names are worse directs the
+16:04
+query to the appropriate top-level
+16:06
+domain names or words by reading the
+16:09
+last part of the URL first in our
+16:11
+example the URL was www dot u dot dot n
+16:17
+the last part is in some of the example
+16:21
+of TLD name servers are comm dot Bills
+16:25
+dot orgy dot u s dot n etc these TLD
+16:31
+name servers act as a switch port and
+16:33
+direct the query to the appropriate
+16:35
+authority of name server maintained by
+16:38
+each domain authority name server
+16:41
+maintains DNS record along with other
+16:43
+useful information this address record
+16:46
+is returned back to the requesting host
+16:48
+computer via names our word ISP DNS
+16:51
+server intermediate REE servers keep the
+16:54
+record of this IP address can there be
+16:56
+in a sketch so that if the same request
+16:59
+is encountered again they don't have to
+17:02
+go through this process again if the
+17:04
+same URL is requested again the DNS
+17:07
+cache of the local host computer will
+17:09
+return the IP address of the URL
+17:11
+Internet as the name suggests is a
+17:14
+network of networks that is it is a
+17:17
+collection of several small medium and
+17:19
+large networks this clearly indicates to
+17:23
+one fact nobody is a single owner of the
+17:25
+internet and it is one of the proven
+17:28
+example of collaborative success now you
+17:31
+must be surprised how such a large
+17:33
+network which is spread across the
+17:36
+continents can jump without any problem
+17:39
+yes it is correct that to monitor such a
+17:41
+large network we require an
+17:43
+international body which
+17:45
+can frame the rules regulations and
+17:48
+protocols to join and use this network
+17:50
+therefore an international organization
+17:53
+known as the Internet Society was formed
+17:57
+in 1992 to pay care of such issues let
+18:02
+us now discuss how this internet works
+18:04
+how the email you sent to your friend is
+18:07
+received by your friends computer
+18:09
+located at another country or continent
+18:12
+then you are working in your computer in
+18:14
+your home without connecting to the
+18:17
+internet your computer is a standalone
+18:19
+system but whenever you connect to the
+18:21
+Internet by dialing to your internet
+18:24
+service provider using your modem you
+18:27
+become a part of the network the ISP is
+18:30
+the link between the Internet backbone
+18:32
+through which the entire data route and
+18:34
+the user the ISP connects to the
+18:38
+Internet backbone ad network access
+18:40
+points on nap these naps are provided by
+18:44
+the large telecommunication companies at
+18:46
+various reasons these large
+18:48
+telecommunication companies connect the
+18:51
+countries and the continents by building
+18:53
+and maintaining the large backbone
+18:55
+infrastructure to room data from nap to
+18:58
+lab is peas are connected to this
+19:01
+backbone at nap and are responsible to
+19:04
+build and manage network locally so when
+19:06
+you dial internet through modem you
+19:09
+first become a part of the local ISP
+19:11
+which interns connect to the internet
+19:14
+backbone through nap the data is routed
+19:17
+through this backbone and sent to the
+19:19
+destination nap where the ISP of your
+19:22
+friends network is located as soon as
+19:25
+your friend dies his modem to connect to
+19:28
+the internet the data is delivered to
+19:30
+your friend's computer sometimes we
+19:33
+interchangeably use the term internet
+19:35
+and world wide web or simply the web as
+19:39
+it is popularly known as but web is only
+19:43
+one of the several utilities that
+19:45
+Internet provides some of the popular
+19:48
+service that Internet provides other
+19:50
+than web is email Usenet messaging
+19:54
+service FTP etc the web use HTTP
+19:58
+protocol
+19:59
+to communicate over Internet and to
+20:01
+exchange information the web was
+20:04
+developed at CER n by a UK scientists in
+20:08
+berners-lee in 1989 it consists of all
+20:12
+the public websites and all the devices
+20:15
+that access the web content www is an
+20:19
+information sharing model which is
+20:22
+developed which in information over the
+20:24
+Internet there are plenty of public
+20:26
+website which is a collection of the
+20:29
+pages available over the Internet these
+20:32
+web pages contain plenty of information
+20:34
+in the form of text video audio and
+20:37
+picture foreign these web pages are
+20:40
+assessed using a application software
+20:42
+called a web browser some of the example
+20:45
+of popular web browsers are Internet
+20:47
+Explorer Chrome Safari Firefox etc now
+20:51
+we will discuss about Internet in
+20:54
+details the internet stands for
+20:56
+interconnection of computer networks it
+20:59
+is a massive heterogeneous combination
+21:01
+of millions of computers network devices
+21:05
+smartphone devices all connected by
+21:07
+wires and wireless signals there are
+21:11
+different definitions of Internet but
+21:13
+the meaning is the same
+21:14
+some of the popular definitions are the
+21:17
+first definition is the series of
+21:19
+interconnected network allowing
+21:22
+communication of data surrounded by
+21:24
+millions of computer worldwide the
+21:27
+second definition is a global
+21:29
+communication network that allows
+21:31
+computers worldwide to connect and
+21:34
+exchange information and the third
+21:36
+definition is a worldwide system of
+21:39
+computer network a network of networks
+21:42
+in which users at any one computer can
+21:46
+get information from any other computer
+21:49
+although it started in 1960s as a
+21:52
+military experiment in communication the
+21:55
+internet evolved into a public free
+21:58
+broadcast forum in the 70s and 80s
+22:01
+no single Authority owns or control the
+22:04
+Internet although there are companies
+22:07
+that help out to manage different parts
+22:09
+of the net
+22:10
+that ties everything together we use the
+22:14
+term Internet and World Wide Web
+22:17
+interchangeably but they are different
+22:19
+let us now discuss how is the internet
+22:22
+different from World Wide Web in 1989 a
+22:26
+large subset of the Internet was
+22:28
+launched as a World Wide Web the web is
+22:31
+a massive collection of HTML pages that
+22:34
+transmits through the Internet's
+22:36
+hardware
+22:37
+you will hear expression web 1.0 web 2.0
+22:41
+and the invisible web to describe these
+22:44
+billions of web pages the web is one
+22:48
+software application or service that run
+22:51
+on the Internet it is a collection of
+22:53
+documents and resources in the form of
+22:56
+web pages it provides easy access to a
+22:59
+huge range of information that is stored
+23:02
+on computers around the world the
+23:05
+expressions web and Internet are used
+23:07
+interchangeably by a layperson this is
+23:10
+technically incorrect as the web is
+23:13
+contained by the Internet
+23:14
+now let us quickly discuss what is web
+23:17
+1.0 web 2.0 and the invisible web we
+23:23
+will start with web 1.0 when the World
+23:26
+Wide Web was launched in 1989 by tim
+23:30
+berners-lee it was comprised of just
+23:33
+text and simple graphics as a collection
+23:35
+of electronic brochures the web was
+23:38
+organized as a simple broadcast receive
+23:41
+formal we call this simple static format
+23:43
+as web 1.0 today millions of web pages
+23:47
+are still quite static and the term web
+23:50
+1.0 still applies in the late 1990s the
+23:55
+web started to go beyond aesthetic
+23:57
+contents and begin offering interactive
+23:59
+services instead of just web pages as
+24:03
+brochures the web begin to offer online
+24:06
+software where people could perform
+24:08
+tasks and receive consumer type services
+24:11
+online banking video gaming dating
+24:14
+services stop tracking financial
+24:17
+planning graphic editing web mail
+24:20
+services like Gmail Yahoo etc all of
+24:23
+these
+24:24
+become regular online web offerings and
+24:26
+all year 2000 these online services are
+24:30
+now referred to as web 2.0 names like
+24:34
+Facebook Flickr eBay and Gmail help to
+24:38
+make that 2.0 a part of our daily lives
+24:41
+the invisible web is the third part of
+24:45
+the world while web technically a subset
+24:48
+of web 2.0 the invisible web described
+24:52
+those billions of the pages that are
+24:54
+purposely hidden from regular search
+24:56
+engines these invisible web pages are
+24:59
+private confidential pages and web page
+25:03
+is generated by specialized databases
+25:06
+invisible web pages are either hidden
+25:09
+completely from your casual eyes or
+25:12
+require special search engines to locate
+25:14
+now let us discuss what is a website
+25:17
+website contains 1/2 million of
+25:20
+interconnected pages has hyperlinks to
+25:23
+connect and help to find your way around
+25:25
+the website you can find different kinds
+25:28
+of information on the web like games
+25:31
+health matters holiday destination train
+25:34
+timetables weather forecasts and many
+25:37
+more there are millions of websites
+25:39
+available on the internet and you can
+25:42
+find anything that you are interested in
+25:44
+each website has its own unique address
+25:47
+which is called URL or Uniform Resource
+25:51
+locator to visit a site you need to type
+25:54
+its address in the address bar of your
+25:56
+web browser the Internet is used mainly
+25:59
+for communication to gather information
+26:02
+education entertainment can enter files
+26:05
+online learning commerce ablation etc in
+26:10
+the uses of internet publishing is not
+26:13
+just used for organizational businesses
+26:16
+anyone can create their own websites and
+26:19
+publish their information or files on
+26:22
+the World Wide Web
+26:23
+through the internet thousands of people
+26:26
+around the world are able to access
+26:28
+information for their homes schools
+26:31
+internet cafes and workplaces we can
+26:34
+send electronic meals or email to family
+26:37
+members and friends
+26:38
+with accounts on the internet which is
+26:40
+similar to sending letters by post the
+26:43
+email can be sent within minutes no
+26:45
+matter where they are without postal
+26:47
+stamps we can post information that can
+26:51
+be assessed by others and can update it
+26:53
+frequently we can access multimedia
+26:56
+information that includes video audio
+26:59
+and images we can learn through
+27:02
+web-based trainings and distance
+27:04
+learning on the Internet now we will
+27:06
+discuss about the features of Internet
+27:08
+the first feature is Geographic sharing
+27:12
+the geographic sharing of the Internet
+27:15
+continues to spread around the world and
+27:18
+even beyond a main feature of the
+27:21
+Internet is that once you have connected
+27:24
+to any part of it you can communicate
+27:27
+with all of it the second feature is
+27:29
+architecture the architecture of
+27:32
+Internet is most our communication
+27:34
+network design the failure of individual
+27:37
+computers on networks will not affect
+27:40
+its overall reliability the information
+27:44
+will not change or destroy over time or
+27:47
+while transferring in between sites and
+27:50
+the third feature is universal access it
+27:53
+is easy to access and make the
+27:56
+information like text audio video and
+27:59
+also accessible to a worldwide people at
+28:02
+a very low price now we will discuss
+28:05
+about the benefits of Internet there are
+28:07
+many advantages of Internet like the
+28:11
+Internet is loaded with data and
+28:13
+information in a range of formats the
+28:16
+search engines that are available online
+28:18
+are fast and powerful the internet is
+28:21
+easy to use students can become
+28:24
+researchers due to easy access to data
+28:26
+students are motivated to share their
+28:29
+work online with the world the internet
+28:31
+appeals to different learning styles
+28:34
+unlike paper the web can present dynamic
+28:38
+data sources which changes over time the
+28:41
+characters in an email don't get
+28:43
+transposed or mixed up when they are
+28:46
+sent over long distances a student can
+28:49
+access libraries around the world
+28:51
+in the current lecture we have discussed
+28:54
+about the history and evolution of
+28:55
+Internet we have also discussed about
+28:58
+the Internet infrastructure and IP
+29:01
+addresses we have also discussed about
+29:03
+Internet and world wide web in the next
+29:06
+lecture we will discuss about cyber
+29:09

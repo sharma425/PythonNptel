@@ -1,0 +1,1 @@
+in above histogram  there is no bell-shaped symmetric and it’s not even close to being bell shaped so the dataset is not approximately normal. And histogram has long tail to the right so, it is right skewed.
