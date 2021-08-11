@@ -1,3 +1,4 @@
+import timeit
 def linear_search(a,x):
     
     flag =0
@@ -31,7 +32,16 @@ def binary_search(a,x):
 a=[]        
 for i in range(1000001):
     a.append(i)
-#linear_search(100000000,67)
+    
 
-print(a)
+start1 = timeit.default_timer()
+binary_search(a, 87857)
+stop1 = timeit.default_timer()
+start = timeit.default_timer()
+linear_search(a,87857)
+stop = timeit.default_timer()
+print("linear",stop-start)
+print("binary",stop1-start1)
+
+
 #binary_search(a, 88)

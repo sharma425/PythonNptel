@@ -1,9 +1,10 @@
 import speech_recognition as sr
+import os
 
-audio_file=("male600.wav")
-r=sr.Recognizer()
+audio_file=("Notepad command.wav")
+r=sr.Recognizer()      #initialize the recognizer
 with sr.AudioFile(audio_file) as source:
-    audio = r.record(source)
+    audio = r.record(source)        #read the audio file
     try:
         # using google speech recognition
         text = r.recognize_google(audio)

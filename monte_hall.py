@@ -5,10 +5,11 @@ swap = 0        #no of swaps wins
 dont_swap=0         #no of dont swaps wins
 for i in range(40):
     x=random.randint(0,2)   #xth door will comprise of BMW
+    print(x)
     doors[x]='BMW'
-    for i in range(0,3):
-        if (i==x):
-            continue
+    for i in range(0,3):#bmw at index x and goat in rest index
+        if (i==x):continue
+            
         else:
             doors[i]="Goat"
             goatdoor.append(i)
